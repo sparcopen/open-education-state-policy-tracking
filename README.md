@@ -1,9 +1,9 @@
 # Open Education State Legislation Tracking
 Since 2014, [SPARC](https://sparcopen.org/) and [Foresight Law + Policy](http://www.flpadvisors.com/) have worked to track U.S. state-level policies relating to open education. This includes legislation and regulations relating to open educational resources (OER), textbook costs, and digital course materials across all levels of education. This repository contains the datasets we created through this process.
 
-A few up-front disclaimers. First, we've made an effort to ensure that the information is accurate, up to date, and representative of all relevant bills, BUT we don't make any guarantees. If you identify any errors or omissions, we encourage you to submit corrections. Second, our efforts to track this legislation are independent of any advocacy or policy positions on them, so please don't interpret inclusion in this dataset as an endorsement.
+A few up-front disclaimers. First, we've made an effort to ensure that the information is accurate, up to date, and representative of all relevant bills, BUT we don't make any guarantees. If you identify any errors or omissions, we encourage you to submit corrections (either through GitHub or by contacting [Nicole Allen](https://github.com/txtbks)). Second, our efforts to track this legislation are independent of any advocacy or policy positions on them, so please don't interpret inclusion in this dataset as an endorsement.
 
-We are hoping that by posting this data openly, it can not only be useful to the public, but that it can also be improved. Corrections and additions are welcome either through git or by emailing [Nicole Allen](https://github.com/txtbks) at nicole@sparcopen.org. 
+We hope that by posting this data openly, it can not only be useful to the public, but that it can also be improved. If you are interested in contributing to this project, please let us know. 
 
 ## Download & Technical Information
 
@@ -25,7 +25,7 @@ Below is more information about each of the data fields represented in the datab
 <tr><td>State</td><td>The state where the policy originates from. The scope is limited to the 50 U.S. states.</td></tr>
 <tr><td>Type</td><td>Type of policy. In most cases this is legislation, but regulations and directives are also marked when relevant.</td></tr>
 <tr><td>Number</td><td>The number corresponding to the policy. For legislation, this is the bill number. For other types of policy, it varies.</td></tr>
-<tr><td>Companion</td><td>For bills, the number of a companion bill in the opposite chamber, if any. Companion bills are always listed in pairs.</td></tr>
+<tr><td>Companion</td><td>For bills with a companion bill in the opposite chamber, the number of the companion bill is listed here. Companion bills are entered separately in pairs, and each bill's entry has the other's number listed in the companion field.</td></tr>
 <tr><td>URL</td><td>The link to more information about the policy. This is the most difficult field to keep up to date, since links keep breaking. Corrections are encouraged.</td></tr>
 <tr><td>Status</td><td>This field was used to keep track of the policy's status over time. In some cases it is a complete history, in others it is only the last known status. We have made an effort to at least ensure the final status is marked, but we would caution that some of the information may be incomplete. Also note that terminology varies between states.</td></tr>
 <tr><td>Description</td><td>Brief description of the policy and how it relates to open education. In some cases, this is taken verbatim from the policy. In others, it is original writing. Note that some bills are much broader in scope, and the description only covers the relevant parts.</td></tr>
