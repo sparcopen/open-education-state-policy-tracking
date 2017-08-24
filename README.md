@@ -7,17 +7,15 @@ We hope that by posting this data openly, it can not only be useful to the publi
 
 ## Download & Technical Information
 
-The datasets can be downloaded in CSV format from GitHub here: https://github.com/sparcopen/open-education-state-policy-tracking
+The datasets can be downloaded in CSV format from GitHub [here](https://github.com/sparcopen/open-education-state-policy-tracking/blob/master/StateOEPolicies.csv) (see image below for instructions). The file uses UTF8 encoding, comma as field delimiter, quotation marks as text delimiter, and no byte order mark. 
 
 ![download help](http://g.recordit.co/h8DxZCWvQF.gif)
 
-The files use UTF8 encoding, comma as field delimiter, quotation marks as text delimiter, and no byte order mark.
-
 ## License and Requests
 
-These datasets are released to the public under a [CC0 Universal 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). 
+The dataset is released to the public under a [CC0 Universal 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-We do have a few requests if you use the datasets. First, we’d love to know what you are doing with it, so we hope you'll drop us a line at the contact information below. Second, it would also be great if you would include a link back to this repository, so people can get the latest updates. Since the datasets are in the public domain you are not obligated to do any of this, but we'd really appreciate it!
+We do have a few requests if you use these data. First, we’d love to know what you are doing with it, so we hope you'll drop us a line at the contact information below. Second, it would also be great if you would include a link back to this repository, so people can get the latest updates. Since the datasets are in the public domain you are not obligated to do any of this, but we'd really appreciate it!
 
 ## Data Fields
 
