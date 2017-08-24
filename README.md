@@ -9,6 +9,8 @@ We hope that by posting this data openly, it can not only be useful to the publi
 
 The datasets can be downloaded in CSV format from GitHub here: https://github.com/sparcopen/open-education-state-policy-tracking
 
+![download help](http://g.recordit.co/h8DxZCWvQF.gif)
+
 The files use UTF8 encoding, comma as field delimiter, quotation marks as text delimiter, and no byte order mark.
 
 ## License and Requests
